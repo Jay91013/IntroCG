@@ -14,3 +14,13 @@ project1/.vs/Sample/v14/.suo
 *.suo
 
 *.pdb
+
+*.lastbuildstate
+
+*.tlog
+
+*.idb
+
+*.h
+
+*.lib
