@@ -1,0 +1,16 @@
+
+*.dll
+
+project1/.vs/Sample/v14/.suo
+
+*.htm
+
+*.obj
+
+*.dep
+
+*.log
+
+*.suo
+
+*.pdb
