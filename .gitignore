@@ -1,3 +1,9 @@
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+*.sdf
 
 *.dll
 
@@ -24,3 +30,13 @@ project1/.vs/Sample/v14/.suo
 *.h
 
 *.lib
+
+*.sln
+
+*.user
+
+*.filters
+
+*.XML
+
+*.vcproj
